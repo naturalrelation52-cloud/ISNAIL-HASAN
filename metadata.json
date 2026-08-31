@@ -1,0 +1,6 @@
+{
+  "name": "Habit Tracker",
+  "description": "A clean, modern, and intuitive mobile habit tracker with customizable 12-hour reminders, streaks, analytics, and history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
